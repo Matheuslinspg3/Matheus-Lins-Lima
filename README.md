@@ -6,6 +6,8 @@
 
 <a href="https://portadocorretor.com.br"><img src="./assets/porta-project.svg" width="100%" alt="Porta do Corretor — projeto em destaque" /></a>
 
+<a href="https://portadocorretor.com.br"><img src="./assets/porta-icon.png" width="58" alt="Logo oficial do Porta do Corretor" /></a>
+
 <br />
 
 <img src="./assets/contributions.svg" width="100%" alt="Mapa das contribuições públicas do GitHub, atualizado quando a coleta automática estiver disponível." />
