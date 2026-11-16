@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Informações de Matheus e outros projetos">
+<defs><linearGradient id="border" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFDA3B"/><stop offset=".45" stop-color="#FF6717"/><stop offset="1" stop-color="#B80041"/></linearGradient><linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#260A10"/><stop offset="1" stop-color="#13050B"/></linearGradient><linearGradient id="highlight" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#FFCF2D"/><stop offset=".5" stop-color="#FF7217"/><stop offset="1" stop-color="#F32549"/></linearGradient></defs>
+<rect x="2" y="2" width="376" height="375" rx="25" fill="url(#background)" stroke="url(#border)" stroke-width="1.5"/>
+<rect x="396" y="2" width="465" height="375" rx="25" fill="url(#background)" stroke="url(#border)" stroke-width="1.5"/>
+<rect x="879" y="2" width="319" height="240" rx="25" fill="url(#background)" stroke="url(#border)" stroke-width="1.5"/>
+<rect x="879" y="257" width="319" height="121" rx="25" fill="url(#background)" stroke="url(#border)" stroke-width="1.5"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="27" y="53" fill="#FFF0EB" font-size="24" font-weight="800">Sobre mim</text>
+<text x="27" y="97" fill="#E7C4C9" font-size="16">Estudante de ADS e desenvolvedor</text>
+<text x="27" y="124" fill="#E7C4C9" font-size="16">apaixonado por criar software.</text>
+<text x="27" y="166" fill="#E7C4C9" font-size="16">Desenvolvo aplicações web, APIs,</text>
+<text x="27" y="193" fill="#E7C4C9" font-size="16">integrações e sistemas SaaS.</text>
+<path d="M27 228H350" stroke="#803D42"/>
+<text x="27" y="271" fill="#FFB932" font-size="16" font-weight="700">Arquitetura + Produto</text>
+<text x="27" y="305" fill="#FFB932" font-size="16" font-weight="700">Automação + Integrações</text>
+<text x="27" y="339" fill="#FFB932" font-size="16" font-weight="700">Aprendizado contínuo</text>
+<text x="421" y="52" fill="#FFF0EB" font-size="24" font-weight="800">Outros projetos</text>
+<rect x="416" y="77" width="424" height="116" rx="17" fill="#390D19" stroke="#A9412F"/>
+<text x="441" y="110" fill="#FFF2ED" font-size="23" font-weight="800">Pharmaco</text>
+<text x="441" y="138" fill="#E4BDC1" font-size="15">E-commerce e operações para farmácias</text>
+<text x="441" y="167" fill="#FFB32C" font-size="13">Next.js  ·  PostgreSQL  ·  Integrações</text>
+<rect x="416" y="208" width="424" height="116" rx="17" fill="#390D19" stroke="#A9412F"/>
+<text x="441" y="242" fill="#FFF2ED" font-size="23" font-weight="800">Alugaí</text>
+<text x="441" y="270" fill="#E4BDC1" font-size="15">Plataforma SaaS para locação por temporada</text>
+<text x="441" y="298" fill="#FFB32C" font-size="13">React  ·  Supabase  ·  Resend</text>
+<text x="903" y="45" fill="#FFF0EB" font-size="23" font-weight="800">Tecnologias</text>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+<rect x="900" y="67" width="88" height="42" rx="12" fill="#12323D"/><text x="944" y="93" fill="#70E5F8">React</text>
+<rect x="997" y="67" width="88" height="42" rx="12" fill="#173F7C"/><text x="1041" y="93" fill="#B6D7FF">TypeScript</text>
+<rect x="1094" y="67" width="84" height="42" rx="12" fill="#31313D"/><text x="1136" y="93" fill="#F7F4F0">Next.js</text>
+<rect x="900" y="121" width="88" height="42" rx="12" fill="#153B27"/><text x="944" y="147" fill="#6EE5A9">Supabase</text>
+<rect x="997" y="121" width="88" height="42" rx="12" fill="#1D3354"/><text x="1041" y="147" fill="#C0DEFF">Postgres</text>
+<rect x="1094" y="121" width="84" height="42" rx="12" fill="#52202C"/><text x="1136" y="147" fill="#FFC68B">Java</text>
+<rect x="900" y="175" width="88" height="42" rx="12" fill="#1C3256"/><text x="944" y="201" fill="#C8DFF4">Docker</text>
+<rect x="997" y="175" width="88" height="42" rx="12" fill="#3C1734"/><text x="1041" y="201" fill="#FFC1E6">n8n</text>
+<rect x="1094" y="175" width="84" height="42" rx="12" fill="#3D2915"/><text x="1136" y="201" fill="#FFD586">Python</text>
+</g>
+<text x="900" y="295" fill="#FFF0EB" font-size="22" font-family="Arial,Helvetica,sans-serif" font-weight="800">Vamos conversar?</text>
+<text x="900" y="330" fill="#FFB52E" font-size="17" font-family="Arial,Helvetica,sans-serif">github.com/Matheuslinspg3</text>
+</svg>

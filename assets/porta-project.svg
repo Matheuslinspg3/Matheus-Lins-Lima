@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="172" viewBox="0 0 1200 172" role="img" aria-label="Projeto Porta do Corretor, CRM imobiliário">
+<defs><linearGradient id="frame" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFDC40"/><stop offset=".33" stop-color="#FF8417"/><stop offset="1" stop-color="#B40037"/></linearGradient><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2B0B10"/><stop offset="1" stop-color="#16040C"/></linearGradient><linearGradient id="logo" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E31316"/><stop offset=".56" stop-color="#FB5411"/><stop offset="1" stop-color="#FFA615"/></linearGradient></defs>
+<rect x="2" y="2" width="1196" height="168" rx="24" fill="url(#bg)" stroke="url(#frame)" stroke-width="1.6"/>
+<rect x="25" y="26" width="119" height="119" rx="26" fill="url(#logo)"/>
+<path d="M50 63L106 71V122L71 132V81L50 63Z" fill="#2A030D"/><circle cx="93" cy="107" r="5" fill="#FCD7A3"/>
+<path d="M42 127Q96 124 126 75" fill="none" stroke="#FFD12D" stroke-width="12" stroke-linecap="round"/><path d="M112 79L137 59L132 95Z" fill="#FFE638"/>
+<text x="174" y="53" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" fill="#FFA82D" letter-spacing="3">PROJETO EM DESTAQUE</text>
+<text x="174" y="99" font-family="Arial,Helvetica,sans-serif" font-size="35" font-weight="800" fill="#FFF5F0">Porta do Corretor</text>
+<text x="174" y="130" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#E7C8CB">CRM imobiliário · gestão de leads · automações · integrações</text>
+<text x="1154" y="91" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#FFC03F">portadocorretor.com.br</text>
+</svg>
