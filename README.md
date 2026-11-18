@@ -10,7 +10,9 @@
 
 <br />
 
-<img src="./assets/contributions.svg" width="100%" alt="Mapa das contribuições públicas do GitHub, atualizado quando a coleta automática estiver disponível." />
+<a href="https://github.com/Matheuslinspg3"><img src="./assets/contributions.svg" width="100%" alt="Recorte automatizado de contribuições identificáveis; clique para verificar o total oficial diretamente no GitHub." /></a>
+
+<sub>Este gráfico é um recorte da coleta automatizada, não o total oficial. **[Consulte a contagem oficial no GitHub](https://github.com/Matheuslinspg3)** · [Dados coletados](./data/contributions.json) · [Código gerador](./scripts/update_contributions.py)</sub>
 
 <br />
 
@@ -24,6 +26,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor de produ
 
 [**Porta do Corretor**](https://portadocorretor.com.br) · [**Meus repositórios**](https://github.com/Matheuslinspg3?tab=repositories)
 
-<sub>Gráfico: contribuições consultáveis sem login, com atualização diária. A contagem vista por você no GitHub pode ser maior por incluir atividades de repositórios privados não compartilhadas publicamente. O gráfico nativo do GitHub é a referência para sua atividade total. Sem números inventados.</sub>
+<sub>O GitHub mantém a contagem oficial de contribuições; esta visualização artística não a substitui. Os dados e o código do recorte são públicos. Projetos com código privado são descrições de portfólio, não provas públicas de implementação.</sub>
 
 </div>
