@@ -51,8 +51,8 @@ def render(days):
     out=['<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="286" viewBox="0 0 1200 286" role="img" aria-label="Contribuições públicas reais de '+USERNAME+'">',
     '<defs><linearGradient id="border"><stop stop-color="#FFD647"/><stop offset=".45" stop-color="#FF6716"/><stop offset="1" stop-color="#A0002C"/></linearGradient><linearGradient id="bg"><stop stop-color="#24080E"/><stop offset="1" stop-color="#14040B"/></linearGradient></defs>',
     '<rect x="2" y="2" width="1196" height="282" rx="25" fill="url(#bg)" stroke="url(#border)" stroke-width="1.5"/>',
-    text(30,46,"Contribuições no GitHub","#FFF5F1",24,'font-weight="800"'),
-    text(1168,46,f"{total:,}".replace(",",".")+" contribuições no período","#FFBD5C",16,'text-anchor="end" font-weight="700"')]
+    text(30,46,"Contribuições visíveis sem login","#FFF5F1",24,'font-weight="800"'),
+    text(1168,46,f"{total:,}".replace(",",".")+" contribuições consultáveis","#FFBD5C",16,'text-anchor="end" font-weight="700"')]
     for w in range(53):
         base=first+dt.timedelta(weeks=w)
         if base.day<=7:
@@ -66,7 +66,7 @@ def render(days):
     for y,lab in [(128,"SEG"),(163,"QUA"),(198,"SEX")]:
         out.append(text(76,y,lab,"#E3C6C7",12))
     out.append('<path d="M30 235H1170" stroke="#60333A"/>')
-    out.append(text(30,264,f"{active} dias com contribuições no período","#D8B1B7",13))
+    out.append(text(30,264,f"{active} dias ativos; a conta logada pode incluir contribuições privadas","#D8B1B7",13))
     out.append(text(971,263,"MENOS","#D8B1B7",11))
     for i,c in enumerate(PALETTE):
         out.append('<rect x="%d" y="248" width="16" height="16" rx="3" fill="%s"/>'%(1017+i*24,c))

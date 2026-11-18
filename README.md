@@ -24,6 +24,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor de produ
 
 [**Porta do Corretor**](https://portadocorretor.com.br) · [**Meus repositórios**](https://github.com/Matheuslinspg3?tab=repositories)
 
-<sub>Gráfico: somente dados públicos reais, sem estatísticas inventadas. Animações compatíveis com SVG no GitHub. Design pessoal independente das organizações e produtos apresentados.</sub>
+<sub>Gráfico: contribuições consultáveis sem login, com atualização diária. A contagem vista por você no GitHub pode ser maior por incluir atividades de repositórios privados não compartilhadas publicamente. O gráfico nativo do GitHub é a referência para sua atividade total. Sem números inventados.</sub>
 
 </div>
