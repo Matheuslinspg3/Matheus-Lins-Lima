@@ -1,6 +1,6 @@
 {
   "username": "Matheuslinspg3",
-  "fetched_at": "2026-11-18T18:02:19.676838+00:00",
+  "fetched_at": "2026-11-19T18:14:56.676509+00:00",
   "status": "ok",
   "days": [
     {
@@ -1775,7 +1775,7 @@
     },
     {
       "date": "2026-11-05",
-      "count": 6,
+      "count": 8,
       "level": 1
     },
     {
@@ -1830,17 +1830,22 @@
     },
     {
       "date": "2026-11-16",
-      "count": 19,
+      "count": 21,
       "level": 1
     },
     {
       "date": "2026-11-17",
-      "count": 2,
+      "count": 7,
       "level": 1
     },
     {
       "date": "2026-11-18",
-      "count": 7,
+      "count": 26,
+      "level": 1
+    },
+    {
+      "date": "2026-11-19",
+      "count": 19,
       "level": 1
     }
   ]
